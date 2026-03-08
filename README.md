@@ -71,26 +71,6 @@ Passionate about writing clean code, following best practices, and delivering hi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### Activity & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassantWael816&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=500)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BassantWael816&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=500)
-
-### Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BassantWael816&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 💼 Professional Skills
 
 <table align="center">
