@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35" style="vertical-align: middle"> Bassant Wael
+# Bassant Wael
 
 <div align="center">
 
