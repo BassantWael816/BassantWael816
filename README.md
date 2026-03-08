@@ -221,6 +221,6 @@ If you find my projects interesting or helpful, feel free to:
 
 ### Made with ❤️ by Bassant Wael
 
-**Last Updated:** 2024
+**Last Updated:** 2026
 
 </div>
