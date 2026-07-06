@@ -117,45 +117,6 @@ Passionate about writing clean code, following best practices, and delivering hi
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### Coming Soon 🚀
-
-I'm currently working on showcase projects that demonstrate:
-
-📱 **Full Stack Web Applications**
-- Complete ASP.NET Core Backend with Angular Frontend
-- Complex Database Designs with Optimization
-- Advanced LINQ Queries & Performance Tuning
-
-🔗 **RESTful API Design**
-- Clean API Architecture
-- Best Practices & Standards
-- Authentication & Authorization
-
-⚙️ **Advanced C# Patterns**
-- OOP Principles in Practice
-- Design Patterns Implementation
-- Real-world Problem Solving
-
-</div>
-
----
-
-## 🎓 Currently Learning & Exploring
-
-<div align="center">
-
-- 🧪 **Unit Testing** & Test-Driven Development
-- 📈 **Performance Optimization** Techniques
-- 🔐 **Security Best Practices**
-  
-</div>
-
----
-
 ## 📞 Let's Connect!
 
 <div align="center">
@@ -184,12 +145,6 @@ If you find my projects interesting or helpful, feel free to:
 - ⭐ **Star** the repositories
 - 🔗 **Share** with others
 - 💬 **Provide feedback**
-
-<br>
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BassantWael816.BassantWael816)
 
